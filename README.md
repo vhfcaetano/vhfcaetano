@@ -2,7 +2,7 @@
 - 👀 I’m interested a Front End Career in this moment, but search more knowledge everyday to progress 
 - 🌱 I’m currently learning HTML/CSS/JAVASCRIPT and NODEJS/REACT
 - 💞️ I'm looking to collaborate on any project at this time
-- 📫 How to reach me. I'm not very attached to social media, but you can find me at the following links [Instagram](https://www.instagram.com/victorhugofcaetano_/), email: victorhugofcaetano@gmail.com
+- 📫 How to reach me. I'm not very attached to social media, but you can find me at the following links [Instagram](https://www.instagram.com/victorhugofcaetano_/) <br>, email: victorhugofcaetano@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
