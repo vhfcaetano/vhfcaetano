@@ -24,9 +24,6 @@
 
 # <samp> "Victor Hugo" </samp> <img src="giphy.webp" width="80px" height="80px" align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/victorhugofcaetano)](https://www.instagram.com/victorhugofcaetano_/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/victorhugofcaetano/)](https://www.linkedin.com/in/victorhugofcaetano/)
-
 ## <samp>Hello World!</samp> <img src="https://cdn.pixabay.com/animation/2024/09/11/02/39/02-39-23-487_512.gif" width="22px" height="22px">
 
 <samp> I"m Victor Hugo. Geek, Passionate about technology and beginner Front End developer but coding every day and focused. HMTL | CSS | JAVASCRIPT | REACT </samp>
