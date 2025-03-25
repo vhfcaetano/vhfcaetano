@@ -1,4 +1,4 @@
-<img src="capa Linkedin.png">
+<img src="capa Linkedin2.png">
 
 # <samp> "Victor Hugo" </samp> <img src="giphy.webp" width="80px" height="80px" align="center">
 
