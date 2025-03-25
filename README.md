@@ -1,3 +1,5 @@
+<img src="capa Linkedin.png">
+
 # <samp> "Victor Hugo" </samp> <img src="giphy.webp" width="80px" height="80px" align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/victorhugofcaetano)](https://www.instagram.com/victorhugofcaetano_/)
