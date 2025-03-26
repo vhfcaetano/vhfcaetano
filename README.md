@@ -40,7 +40,13 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
+
+# <samp>Projeto em Desenvolvimento Atual<samp/>
+
           
+![1](https://github.com/user-attachments/assets/ce93c0a5-0004-4a56-a657-9a910ef082e0)
+
+[Clique aqui e acesse o repositório](https://github.com/vhfcaetano/Gerenciador_Idea)
 
 
 <!--**vhfcaetano/vhfcaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
